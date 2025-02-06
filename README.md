@@ -1,33 +1,33 @@
-###Hi there! 👋 I'm ENIO1910
+### Hi there! 👋 I'm ENIO1910
 
-##🚀 About Me
+## 🚀 About Me
 
-#💻 Jestem programistą, który uwielbia pracować z Laravel, Livewire 3 i całym ekosystemem PHP. Tworzę aplikacje webowe, dbając o czytelność kodu i dobre praktyki.
+# 💻 Jestem programistą, który uwielbia pracować z Laravel, Livewire 3 i całym ekosystemem PHP. Tworzę aplikacje webowe, dbając o czytelność kodu i dobre praktyki.
 
-#🎮 Poza programowaniem interesuję się grami wideo oraz kolarstwem górskim. Lubię testować nowe technologie i szukać ciekawych rozwiązań dla codziennych problemów.
+# 🎮 Poza programowaniem interesuję się grami wideo oraz kolarstwem górskim. Lubię testować nowe technologie i szukać ciekawych rozwiązań dla codziennych problemów.
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 
-#Backend: Laravel, PHP, Livewire 3, PestPHP
+# Backend: Laravel, PHP, Livewire 3, PestPHP
 
-#Frontend: TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire) / Vue 3
+# Frontend: TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire) / Vue 3
 
-#Bazy danych: MySQL, PostgreSQL
+# Bazy danych: MySQL, PostgreSQL
 
-#DevOps: Linux, Docker
+# DevOps: Linux, Docker
 
-#Narzędzia: PhpStorm, Android Studio
+# Narzędzia: PhpStorm, Android Studio
 
-##📌 Aktualne projekty
+## 📌 Aktualne projekty
 
-#📚 CRM do zarządzanie pracownikami
+# 📚 CRM do zarządzanie pracownikami
 
-##📫 Kontakt
+## 📫 Kontakt
 
-#Chcesz się skontaktować? Znajdziesz mnie tutaj:
+# Chcesz się skontaktować? Znajdziesz mnie tutaj:
 
-#🌐 GitHub
+# 🌐 GitHub
 
-#✉️ [(LinkedIn)](https://www.linkedin.com/in/staniewski/)
+# ✉️ [(LinkedIn)](https://www.linkedin.com/in/staniewski/)
 
-##Dzięki za odwiedzenie mojego profilu! 🚀
+## Dzięki za odwiedzenie mojego profilu! 🚀
