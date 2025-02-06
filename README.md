@@ -36,7 +36,5 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENIO1910&layout=compact&theme=radical)
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ENIO1910&theme=radical)
-
 
 ## Dzięki za odwiedzenie mojego profilu! 🚀
