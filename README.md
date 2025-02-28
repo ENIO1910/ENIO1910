@@ -31,6 +31,7 @@
  ✉️ [(LinkedIn)](https://www.linkedin.com/in/staniewski/)
 
 ## Troche statystyk
+ [![CodeWars](https://www.codewars.com/users/ENIO1910/badges/large)
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ENIO1910)](https://github.com/anuraghazra/github-readme-stats)
 
